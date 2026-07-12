@@ -40,14 +40,6 @@ A women's safety dashboard combining historical crime data with ML-driven threat
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyasd-dev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyasd-dev&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyasd-dev&theme=tokyonight&hide_border=true)
-
----
-
 ## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/ananya-s-d-497136307) · [Email](mailto:ananyasd368@gmail.com) 
